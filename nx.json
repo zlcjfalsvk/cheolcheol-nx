@@ -19,5 +19,6 @@
       "devDependencies": "*"
     },
     ".eslintrc.json": "*"
-  }
+  },
+  "defaultProject": "backend-app"
 }
